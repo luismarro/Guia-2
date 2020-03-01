@@ -1,0 +1,18 @@
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.exe.config
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.exe
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.pdb
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio_3_de_pro2.Form1.resources
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio_3_de_pro2.Properties.Resources.resources
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.exe
+C:\Users\DELL\Documents\Ciclo 1 I.S\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.pdb
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.exe.config
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.exe
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.pdb
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.exe
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\bin\Debug\ejercicio 3 de pro2.pdb
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio_3_de_pro2.Form1.resources
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio_3_de_pro2.Properties.Resources.resources
+C:\Users\DELL\Documents\ISO\ejercicio 3 de pro2\ejercicio 3 de pro2\obj\Debug\ejercicio 3 de pro2.csproj.GenerateResource.Cache

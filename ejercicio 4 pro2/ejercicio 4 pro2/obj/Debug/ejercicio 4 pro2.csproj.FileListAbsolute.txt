@@ -1,0 +1,9 @@
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\bin\Debug\ejercicio 4 pro2.exe.config
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\bin\Debug\ejercicio 4 pro2.exe
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\bin\Debug\ejercicio 4 pro2.pdb
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio 4 pro2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio_4_pro2.Form1.resources
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio_4_pro2.Properties.Resources.resources
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio 4 pro2.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio 4 pro2.exe
+C:\Users\DELL\Documents\ISO\ejercicio 4 pro2\ejercicio 4 pro2\obj\Debug\ejercicio 4 pro2.pdb
